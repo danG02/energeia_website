@@ -353,6 +353,7 @@ const ACCENT_COLORS = {
         primary: '#FF5252',
         gradient: 'linear-gradient(135deg, #FF5252 0%, #FF1744 100%)'
     },
+    // Note: Using "puruple" to match actual folder name - consider renaming folder to "purple" for correct spelling
     puruple: {
         primary: '#A259FF',
         gradient: 'linear-gradient(135deg, #A259FF 0%, #6A82FB 100%)'
